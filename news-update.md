@@ -13,4 +13,4 @@ Since the use of `eval()` will no longer be allowed in MV3, the following things
 1. JavaScript rules
 2. Variables that begin with `javascript:`
 
-Autofill will remain on MV2 for as long as the browser companies allow it (see their respective migration schedules in the links above). Any updates on this subject will be posted in this space.
+Autofill will remain on MV2 for as long as the browser companies allow it (see their respective migration schedules in the links above). The Autofill codebase is over 10 years old, so there's a chance that Autofill will be rewritten from scratch using the latest technologies like JavaScript ES6 [modules](https://blog.webdevsimplified.com/2021-11/es6-modules/) and ES8 [async/await](https://medium.com/@_bengarrison/javascript-es8-introducing-async-await-functions-7a471ec7de8a), possibly using a modern framework such as [Svelte](https://kit.svelte.dev/). Any updates on this subject will be posted in this space.
