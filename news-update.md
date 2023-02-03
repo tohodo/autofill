@@ -23,7 +23,7 @@ After 12 years of pouring my heart & soul into Autofill and giving it away for f
 
 To make it more worthwhile for subscribers, in addition to getting rid of the banners, they will get access to a premium support community where they will get to help me shape Automate every step of the way. This is where I will post preview versions for private "early access" testing. The biggest reason to subscribe now is that you will get access to Automate when it is released at a 47% discount. Remember that Autofill will no longer have JavaScript rules when it is migrated to MV3, something that Automate will be able to do using an automation API. Please [let me know](https://forms.gle/uWnuAbPaj3Wsrtfi8) if you want something else added to Automate. Autofill will remain "as is"--I will no longer work on it or support it as all my time will be dedicated to creating Automate. The Automate MV3 extension is the future.
 
-### I hope it doesn't end this way, but...
+### I hope it doesn't end like this, but...
 
 If this little monetization experiment doesn't work out after a couple months (i.e., I don't have enough subscribers to support myself), then I will most likely sell Autofill. Once Autofill is sold, it will be out of my control, so I cannot guarantee that it will continue to work the way it does today under the new owner, or whether they will migrate it to MV3 down the road.
 
