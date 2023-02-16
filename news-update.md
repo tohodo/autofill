@@ -14,13 +14,13 @@ Here are some other minor tweaks and quality of life improvements to Autofill:
 
 - **Added Facebook and Twitter share icons.** If you find Autofill useful, then I've added these icons in the footer so you can spread the word about Autofill with just one click.
 
-    ![social share icons](https://i.imgur.com/kfBCZEI.png)
+  ![social share icons](https://i.imgur.com/kfBCZEI.png)
 
 - **Added lightbox loading screen.** Sometimes it can take seconds to retrieve the changelog remotely when you click on the version number link (top right in Options), which can make it seem like Autofill is hanging. The loading screen will let you know that it's still retrieving data.
 
 - **Removed squigglies in Form Fields.** These distracting wavy red lines below the text are not applicable to Autofill rules, so they've been banished in v11.
 
-    ![squigglies](https://i.imgur.com/zj3KOg9.png)
+  ![squigglies](https://i.imgur.com/zj3KOg9.png)
 
 - **Updated developer notice.** The fundraiser banner was too red, so I toned it down a notch. The buttons look prettier also.
 
