@@ -2,7 +2,7 @@
 
 It has been about two weeks since I launched my Autofill fundraising campaign, and it has been a humbling experience. Honestly, I thought only a handful of power users would subscribe since I have been giving Autofill away for free for so long, but the number of new subscribers I'm getting every day continues to touch my heart. 🥰
 
-As a way of paying it forward, I present to you the inaugural 🌟**Autofill Stars**🌟 program. About 1-2 times a month I will showcase one Autofill subscriber or influencer right here in the News tab. It's a great platform for them to share with all of us how they use Autofill, which could be beneficial to everyone. Autofill Stars are allowed to promote their own service or brand to Autofill's 800k users, so if anyone has something they want to announce then please subscribe!
+As a way of paying it forward, I present to you the inaugural 🌟**Autofill Stars**🌟 program. About 1-2 times a month I will showcase one Autofill subscriber or influencer right here in the News tab. It's a great platform for them to share with all of us how they use Autofill, which could be beneficial to everyone. Autofill Stars are allowed to promote their own service or brand to Autofill's 800k users, so if anyone has something they want to announce then please [subscribe](https://www.tohodo.com/autofill/help.html#donate-sub)!
 
 The first Autofill Star I'd like to shine the spotlight on is **Ronald**. Not only was he one of the first subscribers, but he also donated a generous $600 to Autofill. Thank YOU, Ronald! This is how Ronald has been using Autofill:
 
@@ -24,7 +24,7 @@ One small way that you can help that doesn't cost anything is if you have any fr
 
 I have finally set up the Automate Community. It's going to be a premium invite-only support community for Autofill subscribers. I will send out an invite to existing subscribers shortly. All future subscribers will automatically receive in invite to join this new community. It will be quiet in there for awhile as I'm still in the early design process of building the Automate MV3 extension.
 
-https://community.automateextension.com/
+[https://community.automateextension.com/](https://community.automateextension.com/)
 
 ---
 
