@@ -1,3 +1,33 @@
+## Autofill Stars (Feb 18, 2023)
+
+It has been about two weeks since I launched my Autofill fundraising campaign, and it has been a humbling experience. Honestly, I thought only a handful of power users would subscribe since I have been giving Autofill away for free for so long, but the number of new subscribers I'm getting every day continues to touch my heart. 🥰
+
+As a way of paying it forward, I present to you the inaugural 🌟**Autofill Stars**🌟 program. About 1-2 times a month I will showcase one Autofill subscriber or influencer right here in the News tab. It's a great platform for them to share with all of us how they use Autofill, which could be beneficial to everyone. Autofill Stars are allowed to promote their own service or brand to Autofill's 800k users, so if anyone has something they want to announce then please subscribe!
+
+The first Autofill Star I'd like to shine the spotlight on is **Ronald**. Not only was he one of the first subscribers, but he also donated a generous $600 to Autofill. Thank YOU, Ronald! This is how Ronald has been using Autofill:
+
+> Autofill saves me tons of time in my job. I gather data used in performance evaluation used to determine system productivity. I start with what I call a set of "baseline autofills" to enter data on sets of standardized forms. My evaluations are then completed by adding essential bits of customized information to create unique reports.
+
+### How to get rid of the banner
+
+The instructions are in the order confirmation email after you subscribe, but it's worth repeating here since I've been getting a lot of questions about this:
+
+1. After you subscribe, you should be getting an order confirmation email from Stripe. If you don't see it, look in your Spam folder. Make a note of the invoice number inside this email.
+2. Go to Autofill Options / Other Stuff tab and enter the invoice number from step 1 into the "Invoice number" field under the Subscription section.
+3. Click on the "Verify Subscription" button. After a new seconds, the button should change to "Subscribed" to verify that you have been registered successfully and should no longer see the fundraiser banners.
+
+### Please help spread the word ^_^
+
+One small way that you can help that doesn't cost anything is if you have any friends or colleagues that you noticed are doing repetitive work in the browser (like filling out long tedious forms), then you can introduce them to Autofill. In the latest version I have added Facebook and Twitter icons in the footer to help you share Autofill with others in one click. Please click on these icons as a free way of showing support.
+
+### Automate Community
+
+I have finally set up the Automate Community. It's going to be a premium invite-only support community for Autofill subscribers. I will send out an invite to existing subscribers shortly. All future subscribers will automatically receive in invite to join this new community. It will be quiet in there for awhile as I'm still in the early design process of building the Automate MV3 extension.
+
+https://community.automateextension.com/
+
+---
+
 ## Introducing Autofill v11 (Feb 14, 2023)
 
 Happy Valentine's Day everyone! 💘
