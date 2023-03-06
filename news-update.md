@@ -2,7 +2,7 @@
 
 This is the first ever proof-of-concept demo of Automate:
 
-https://www.loom.com/share/1e328d19073a40fb944f78076507d575
+[https://www.loom.com/share/1e328d19073a40fb944f78076507d575](https://www.loom.com/share/1e328d19073a40fb944f78076507d575)
 
 I'm really happy with the results. In this video the following actions were automated:
 
