@@ -1,10 +1,35 @@
+## Automate first test (Mar 5, 2023)
+
+This is the first ever proof-of-concept demo of Automate:
+
+https://www.loom.com/share/1e328d19073a40fb944f78076507d575
+
+I'm really happy with the results. In this video the following actions were automated:
+
+1. Navigate to Amazon.
+2. Search for "ps5" after the page loads.
+3. Wait for results to load, then take a scrolling screenshot.
+4. Insert the screenshot image at the bottom of the page.
+
+Even at this early stage, this video shows a level of automation that even Autofill can't do. Now imagine doing all this using simple commands from your own Google Sheets. All that power at your fingertips, and this is just the beginning. Down the road, in addition to taking screenshots, you will be able to scrape the results and send them to Sheets, open multiple tabs and autofill all of them, and so much more. Automate is going to be awesome!
+
+### 🌟Autofill Stars🌟
+
+Today I'd like to shine the spotlight on Don from USA. In Don's own words:
+
+> I have been using Autofill for years to complete my required online form documentation for work in healthcare. I have amassed 18 profiles with over 300 rules, 30 advanced rules, and almost 200 variables that I mostly activate with keyboard shortcuts. Autofill has saved me hundreds of hours. I also use Autofill for pop-up tasks as they come to make filling forms and clicking buttons a breeze. My advice for any newer Autofill users is to learn variables and JavaScript with advanced rules to add delay for clicking -- this will open a whole new world for you!! Also, if you use multiple machines, use Pastebin to save your rules. It is free!
+
+Don, you're an Autofill Star!
+
+---
+
 ## Autofill Stars (Feb 18, 2023)
 
 It has been about two weeks since I launched my Autofill fundraising campaign, and it has been a humbling experience. Honestly, I thought only a handful of power users would subscribe since I have been giving Autofill away for free for so long, but the number of new subscribers I'm getting every day continues to touch my heart. 🥰
 
 As a way of paying it forward, I present to you the inaugural 🌟**Autofill Stars**🌟 program. About 1-2 times a month I will showcase one Autofill subscriber or influencer right here in the News tab. It's a great platform for them to share with all of us how they use Autofill, which could be beneficial to everyone. Autofill Stars are allowed to promote their own service or brand to Autofill's 800k users, so if anyone has something they want to announce then please [subscribe](https://www.tohodo.com/autofill/help.html#donate-sub)!
 
-The first Autofill Star I'd like to shine the spotlight on is **Ronald**. Not only was he one of the first subscribers, but he also donated a generous $600 to Autofill. Thank YOU, Ronald! This is how Ronald has been using Autofill:
+The first Autofill Star I'd like to shine the spotlight on is **Ronald** from USA. Not only was he one of the first subscribers, but he also donated a generous $600 to Autofill. Thank YOU, Ronald! This is how Ronald has been using Autofill:
 
 > Autofill saves me tons of time in my job. I gather data used in performance evaluation used to determine system productivity. I start with what I call a set of "baseline autofills" to enter data on sets of standardized forms. My evaluations are then completed by adding essential bits of customized information to create unique reports.
 
@@ -83,7 +108,7 @@ After 12 years of pouring my heart & soul into Autofill and giving it away for f
 
 ### Subscription benefits
 
-To make it more worthwhile for subscribers, in addition to getting rid of the banners, they will get access to a [premium support community](https://community.automateextension.com/) where they will get to help me shape Automate every step of the way. This is where I will post preview versions for private "early access" testing. The biggest reason to subscribe now is that you will get upgraded to Automate's 500 tier (500 automation rules) without requiring a separate subscription. Remember that Autofill will no longer have JavaScript rules when it is migrated to MV3, something that Automate will be able to do using an automation API. Please [let me know](https://forms.gle/uWnuAbPaj3Wsrtfi8) if you want something else added to Automate. Autofill will remain "as is"--I will no longer work on it or support it as all my time will be dedicated to creating Automate. The Automate MV3 extension is the future.
+To make it more worthwhile for subscribers, in addition to getting rid of the banners, they will get access to a [premium support community](https://community.automateextension.com/) where they will get to help me shape Automate every step of the way. This is where I will post preview versions for private "early access" testing. The biggest reason to subscribe now is that you will get discount promo codes for Automate's premium tiers when it is released (25% off for yearly subscribers and 50% for monthly subscribers). Remember that Autofill will no longer have JavaScript rules when it is migrated to MV3, something that Automate will be able to do using an automation API. Please [let me know](https://forms.gle/uWnuAbPaj3Wsrtfi8) if you want something else added to Automate. Autofill will remain "as is"--I will no longer work on it or support it as all my time will be dedicated to creating Automate. The Automate MV3 extension is the future.
 
 ### I hope it doesn't end like this, but...
 
