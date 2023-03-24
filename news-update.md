@@ -1,3 +1,11 @@
+## First Autofill tutorial (Mar 23, 2023)
+
+Recently, I helped a user with autofilling a tricky AJAX form that stumped Autofill's generated rules. I felt the solution for this form could be applied to other forms as well, so I created my first Autofill tutorial around this. I can't believe after 12 years this is my first tutorial, but better late than never ^^.
+
+[Automating AJAX Forms »](https://dev.to/tohodo/automating-ajax-forms-2ph9)
+
+---
+
 ## Automate first test (Mar 5, 2023)
 
 This is the first ever proof-of-concept demo of Automate:
