@@ -1,3 +1,13 @@
+## Autofill v11.4.5 released (Mar 29, 2023)
+
+Autofill v11.4.5 fixes various bugs related to text spinner and sequential list variables (thank you Matthew for reporting), as well as a minor profile deletion bug. More importantly, it introduces an often requested feature:
+
+![screenshot](https://user-images.githubusercontent.com/4110567/228737867-1f556c74-eba0-425d-b3bd-a06cd19930a9.png)
+
+With this option checked, the infobar will only show profiles whose site filter matches the current web page's URL or document title. This will make selecting profiles a lot easier for people with a ton of profiles.
+
+---
+
 ## First Autofill tutorial (Mar 23, 2023)
 
 Recently, I helped a user with autofilling a tricky AJAX form that stumped Autofill's generated rules. I felt the solution for this form could be applied to other forms as well, so I created my first Autofill tutorial around this. I can't believe after 12 years this is my first tutorial, but better late than never ^^.
