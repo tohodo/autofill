@@ -67,7 +67,11 @@ One small way that you can help that doesn't cost anything is if you have any fr
 
 I have finally set up the Automate Community. It's going to be a premium invite-only support community for Autofill subscribers. I will send out an invite to existing subscribers shortly. All future subscribers will automatically receive in invite to join this new community. It will be quiet in there for awhile as I'm still in the early design process of building the Automate MV3 extension.
 
-[https://community.automateextension.com/](https://community.automateextension.com/)
+~~[https://community.automateextension.com/](https://community.automateextension.com/)~~
+
+UPDATE: PeerBoard, the service that powers the community site above, will shut down in June 2023. I have set up a Discord server to host the new community. You can join using the link below.
+
+[https://discord.gg/ndJHZk6aN2](https://discord.gg/ndJHZk6aN2)
 
 ---
 
@@ -126,7 +130,7 @@ After 12 years of pouring my heart & soul into Autofill and giving it away for f
 
 ### Subscription benefits
 
-To make it more worthwhile for subscribers, in addition to getting rid of the banners, they will get access to a [premium support community](https://community.automateextension.com/) where they will get to help me shape Automate every step of the way. This is where I will post preview versions for private "early access" testing. The biggest reason to subscribe now is that you will get discount promo codes for Automate's premium tiers when it is released (25% off for yearly subscribers and 50% for monthly subscribers). Remember that Autofill will no longer have JavaScript rules when it is migrated to MV3, something that Automate will be able to do using an automation API. Please [let me know](https://forms.gle/uWnuAbPaj3Wsrtfi8) if you want something else added to Automate. Autofill will remain "as is"--I will no longer work on it or support it as all my time will be dedicated to creating Automate. The Automate MV3 extension is the future.
+To make it more worthwhile for subscribers, in addition to getting rid of the banners, they will get access to a [premium support community](https://discord.gg/ndJHZk6aN2) where they will get to help me shape Automate every step of the way. This is where I will post preview versions for private "early access" testing. The biggest reason to subscribe now is that you will get discount promo codes for Automate's premium tiers when it is released (25% off for yearly subscribers and 50% for monthly subscribers). Remember that Autofill will no longer have JavaScript rules when it is migrated to MV3, something that Automate will be able to do using an automation API. Please [let me know](https://forms.gle/uWnuAbPaj3Wsrtfi8) if you want something else added to Automate. Autofill will remain "as is"--I will no longer work on it or support it as all my time will be dedicated to creating Automate. The Automate MV3 extension is the future.
 
 ### I hope it doesn't end like this, but...
 
