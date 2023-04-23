@@ -1,3 +1,11 @@
+## 🌟Autofill Stars🌟 (Apr 23, 2023)
+
+Today I'd like to shine the spotlight on Daniel @ [OnShoreIt](https://onshoreit.net/) from USA. Daniel uses Autofill to fill out Nagios forms and ATT tickets. 
+
+Daniel, you're an Autofill Star!
+
+---
+
 ## Autofill v11.4.5 released (Mar 29, 2023)
 
 Autofill v11.4.5 fixes various bugs related to text spinner and sequential list variables (thank you Matthew for reporting), as well as a minor profile deletion bug. More importantly, it introduces an often requested feature:
