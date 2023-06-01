@@ -1,3 +1,11 @@
+## Autofill v11.5.1 released (May 31, 2023)
+
+This update adds a feature that a number of people have been asking for over the years: the ability to remove attributes from problematic forms. Now you can accomplish this by adding a comma-separated list of attributes to the new "Attributes to remove" field in the Other Stuff tab. Prime candidates for this field include `autocomplete` (often used to disable the browser's built-in autofill) and `readonly` (prevents Autofill from filling out the field).
+
+You don't need to create any rules for the attributes to be removed. As long as the web page's URL satisfies any site filter you've defined for the active profile, the attributes will be removed automatically on page load if this option is enabled. Note that attributes will only be removed for form fields.
+
+---
+
 ## 🌟Autofill Stars🌟 (May 16, 2023)
 
 Our Autofill Star for this month is Abdelrahman from Egypt. Abdelrahman uses Autofill to help complete his tasks at [work](https://evisaforms.state.gov/acs/default.asp).
