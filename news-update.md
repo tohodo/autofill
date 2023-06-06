@@ -1,3 +1,11 @@
+## Stripe Checkout down (Jun 5, 2023)
+
+Stripe has disabled my subscription checkout page because of some fraudulent activities. I'm in the process of resolving this situation, which will require an extra step to authenticate users before sending them to the checkout page.
+
+Apologies for the inconvenience.
+
+---
+
 ## Autofill v11.5.1 released (May 31, 2023)
 
 This update adds a feature that a number of people have been asking for over the years: the ability to remove attributes from problematic forms. Now you can accomplish this by adding a comma-separated list of attributes to the new "Attributes to remove" field in the Other Stuff tab. Prime candidates for this field include `autocomplete` (often used to disable the browser's built-in autofill) and `readonly` (prevents Autofill from filling out the field).
