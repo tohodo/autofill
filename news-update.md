@@ -1,6 +1,6 @@
 ## Autofill Signin (Jun 14, 2023)
 
-I'm getting more and more cases of the Welcome email bouncing or people complaining that they never received the subscription key, which suggests that people are making typos when entering their email address. This is a security risk -- I don't want invoices and Welcome emails containing the subsription key going to the wrong email account by accident.
+I'm getting more and more cases of the welcome email bouncing or people complaining that they never received the subscription key, which suggests that people are making typos when entering their email address. This is a security risk -- I don't want invoices and welcome emails containing the subsription key going to the wrong email account by accident.
 
 Since Stripe doesn't validate email addresses during checkout, I will be introducing an Autofill signin form to ensure that subscription keys always go to the right email addresses. This means that the Stripe Checkout buttons will only be available once you validate your email address and sign in. This should offer more peace of mind for subscribers. 😌
 
