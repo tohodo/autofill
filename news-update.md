@@ -1,3 +1,21 @@
+## Autofill v11.7.0 released (Jul 2, 2023)
+
+This version introduces a global hotkey to execute all profiles. Before you could assign a hotkey to individual profiles, but you'll quickly run out of hotkeys to assign if you have a ton of profiles. Instead of setting profile hotkeys, you can opt to assign one global hotkey that will execute all rules in all profiles that match the site filter (even if "Autofill active profile only" option is checked). This works great when you're in manual mode. This new global hotkey can be set by clicking "Global Hotkeys".
+
+![image](https://github.com/tohodo/autofill/assets/4110567/9084cd9f-9b93-4b31-9e3d-086d2b63c9eb)
+
+### 🌟Autofill Stars🌟
+
+Today I would like to introduce our next Autofill Star: Rich from USA. In Rich's own words:
+
+> I send 250,000 to 1 million or more emails per day promoting 3-5 affiliate programs. Would not be possible without Autofill. Every new Autofill profile (I have a template) contains all the fields necessary for all the safelists and SuperSolos I use. When I set up my profile for a promotion I populate all fields including 5-6 subject lines, banner URLs, HTML and Text Ad Copy. When I start to promote on a safelist, it is simply login, add my solo or credit mail, select the profile, send. Rinse and repeat.
+>
+> I do primarily email marketing but have over 100 videos on my YouTube channel ([@RichMoyer1953](https://www.youtube.com/channel/UCpXWfPB0wwfKNF9Pci8OZoQ)).
+
+Rich, you're definitely an Autofill power user!
+
+---
+
 ## Autofill Signin (Jun 14, 2023)
 
 I'm getting more and more cases of the welcome email bouncing or people complaining that they never received the subscription key, which suggests that people are making typos when entering their email address. This is a security risk -- I don't want invoices and welcome emails containing the subsription key going to the wrong email account by accident.
