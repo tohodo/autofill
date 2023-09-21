@@ -1,3 +1,32 @@
+## Autofill v11.8.0 released (Sep 21, 2023)
+
+Here are all of the changes since v11.7.0:
+
+- A new and improved Portuguese translation (credit to Frederico Valério 👏)
+- The "commands" permission was removed as it was triggering security warnings and wasn't needed
+- Fixed errors related to the experimental [fenced frame](https://developer.chrome.com/docs/privacy-sandbox/fenced-frame/) feature
+- Fixed issue generating rules for some `<select>` fields, which cascaded into other errors
+
+Version 11.8.0 should start rolling out to all three browsers (Chrome, Edge, Firefox) in the coming days.
+
+### 🌟Autofill Stars🌟
+
+Presenting our newest Autofill Star: Dylan from Australia! 🎆 Dylan, take it from here...
+
+> I've made Autofill a part of my online shopping routine, especially on websites like Supreme. When it comes to highly sought-after items like the Supreme box logo, being fast is crucial, and Autofill has become my secret weapon. It pairs seamlessly with my custom Chrome extension, the Supreme Size Selector (you can find it on the Chrome Web Store for just USD$3). This extension simplifies the process, allowing me to quickly get those in-demand pieces, including the iconic Supreme box logo. It doesn't just streamline checkout but also offers a cost-effective alternative to pricy Supreme bots. My reason for creating this extension was simple: to help fellow users get the items they want without having to spend a lot on bots that they might only use occasionally.
+>
+> Feel free to checkout Supreme Size Selector:
+>
+> https://chrome.google.com/webstore/detail/supreme-size-selector-%2B-a/mialjgeooaepealoglgacdjicchfipjd
+>
+> I also have a version for Palace as well:
+>
+> https://chrome.google.com/webstore/detail/palace-size-selector-%2B-at/agmnobgmdcadclfblcgccgjojdbkhncl
+
+Dylan, you're an Autofill superstar!
+
+---
+
 ## Autofill v11.7.0 released (Jul 2, 2023)
 
 This version introduces a global hotkey to execute all profiles. Before you could assign a hotkey to individual profiles, but you'll quickly run out of hotkeys to assign if you have a ton of profiles. Instead of setting profile hotkeys, you can opt to assign one global hotkey that will execute all rules in all profiles that match the site filter (even if "Autofill active profile only" option is checked). This works great when you're in manual mode. This new global hotkey can be set by clicking "Global Hotkeys".
