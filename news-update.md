@@ -1,3 +1,11 @@
+## Lightning Autofill v12 update (Apr 11, 2024)
+
+Hi guys, I'm putting the finishing touches on the major version 12 release. The OAuth app (for the cloud sync feature) is currently going through Google's verification process, which can take over a week. After that, Lightning Autofill will have to go through the extensions review process for Chrome, Edge, and Firefox before the update can get published. If everything goes as planned, expect the big v12 to roll out by the end of this month.
+
+**In the meantime, I recommend you back up all your data to a CSV file using the Import/Export tab.**
+
+---
+
 ## HAPPY NEW YEAR! 🥳 (Feb 10, 2024)
 
 Happy belated New Year everyone (well, I guess it's not belated if we're using the lunar calendar). It has been quite a busy start to the new year for me, with lots of important developments. Let's jump right in...
