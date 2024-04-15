@@ -1,0 +1,16 @@
+- [Quick Start Guide](https://www.tohodo.com/autofill/quickstart) ✨ - Go here to learn the basics first
+- [Online Help](https://www.tohodo.com/autofill/help) 📔 - Go here to read the complete documentation
+- **Community** 🌐
+  - [Discord Server](https://discord.gg/NY6xxsQBRD) - Join the official support community to get & give help
+  - [Google Groups (unmaintained)](https://groups.google.com/g/chrome-autofill) - The original forum is preserved here for reference only
+- **Training** 💪
+  - [Practice Form](https://www.tohodo.com/autofill/form) - Go here to practice creating various autofill rules
+  - [Practice Form rules](https://pastebin.com/raw/k5j87pZB) - Sample rules for the Practice Form above (use the **Append** option if you import these rules)
+  - [Sample address form](https://greenido.github.io/Product-Site-101/form-cc-example.html) - Go here to finetune global address rules based on the `autocomplete` attribute
+- **JavaScript snippets** 📜
+  - [Rules](https://github.com/thdoan/autofill-snippets/blob/main/rules.txt) - Sample JavaScript rules
+  - [Variables](https://github.com/thdoan/autofill-snippets/blob/main/variables.txt) - Sample JavaScript variables
+- **Video tutorials** 🎞️
+  - [Typical usage](https://youtu.be/1w0GH46bte0) - Autofilling a Google Form using the wizard infobar
+  - [Inserting today's date](https://youtu.be/rFwTjuhI1hE) - Autofilling today's date using a JavaScript variable
+- [Privacy Policy](https://www.tohodo.com/autofill/privacy) 🔏 - Go here to read our Privacy Policy
