@@ -13,4 +13,4 @@
 - **Video tutorials** 🎞️
   - [Typical usage](https://youtu.be/1w0GH46bte0) - Autofilling a Google Form using the wizard infobar
   - [Inserting today's date](https://youtu.be/rFwTjuhI1hE) - Autofilling today's date using a JavaScript variable
-- [Privacy Policy](https://www.tohodo.com/autofill/privacy) 🔏 - Go here to read our Privacy Policy
+- [Privacy Policy](https://www.tohodo.com/autofill/privacy) 🕵️ - Go here to read our Privacy Policy
