@@ -2,7 +2,7 @@
 - [Online Help](https://www.tohodo.com/autofill/help) 📔 - Go here to read the complete documentation
 - **Community** 🌐
   - [Discord Server](https://discord.gg/NY6xxsQBRD) - Join the official support community to get & give help
-  - [Google Groups (unmaintained)](https://groups.google.com/g/chrome-autofill) - The original forum is preserved here for reference only
+  - [Google Groups (retired)](https://groups.google.com/g/chrome-autofill) - The original forum is preserved here for reference only
 - **Training** 💪
   - [Practice Form](https://www.tohodo.com/autofill/form) - Go here to practice creating various autofill rules
   - [Practice Form rules](https://pastebin.com/raw/k5j87pZB) - Sample rules for the Practice Form above (use the **Append** option if you import these rules)
