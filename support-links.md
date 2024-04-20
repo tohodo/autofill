@@ -1,6 +1,6 @@
 - [Quick Start Guide](https://www.tohodo.com/autofill/quickstart) ✨ - Go here to learn the basics first
 - [Online Help](https://www.tohodo.com/autofill/help) 📔 - Go here to read the complete documentation
-- [YouTube Channel](https://www.youtube.com/@lightningautofill) 🎞️ - Watch video tutorials on how to use Lightning Autofill
+- [YouTube Channel](https://www.youtube.com/@lightningautofill) 🎞️ - Subscribe to be notified when we upload new video tutorials
 - **Community** 🌐
   - [Discord Server](https://discord.gg/NY6xxsQBRD) - Join the official support community to get & give help
   - [Google Groups (retired)](https://groups.google.com/g/chrome-autofill) - The original forum is preserved here for reference only
