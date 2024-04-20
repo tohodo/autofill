@@ -1,5 +1,6 @@
 - [Quick Start Guide](https://www.tohodo.com/autofill/quickstart) ✨ - Go here to learn the basics first
 - [Online Help](https://www.tohodo.com/autofill/help) 📔 - Go here to read the complete documentation
+- [YouTube Channel](https://www.youtube.com/@lightningautofill) 🎞️ - Watch video tutorials on how to use Lightning Autofill
 - **Community** 🌐
   - [Discord Server](https://discord.gg/NY6xxsQBRD) - Join the official support community to get & give help
   - [Google Groups (retired)](https://groups.google.com/g/chrome-autofill) - The original forum is preserved here for reference only
@@ -10,6 +11,3 @@
 - **JavaScript snippets** 📜
   - [Rules](https://github.com/thdoan/autofill-snippets/blob/main/rules.txt) - Sample JavaScript rules
   - [Variables](https://github.com/thdoan/autofill-snippets/blob/main/variables.txt) - Sample JavaScript variables
-- **Video tutorials** 🎞️
-  - [Typical usage](https://youtu.be/1w0GH46bte0) - Autofilling a Google Form using the wizard infobar
-  - [Inserting today's date](https://youtu.be/rFwTjuhI1hE) - Autofilling today's date using a JavaScript variable
