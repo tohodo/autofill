@@ -1,5 +1,5 @@
 - [Quick Start Guide](https://www.tohodo.com/autofill/quickstart.html) ✨ - Go here to learn the basics first
-- [Update Notice](https://www.tohodo.com/autofill/v12-update.html) 📢 - Go here to see the breaking changes in version 12 (MV3)
+- [Freemium Notice](https://www.tohodo.com/autofill/freemium.html) 📢 - Go here to read about our freemium model
 - [Online Help](https://www.tohodo.com/autofill/help.html) 📕 - Go here to read the complete documentation
 - [YouTube Channel](https://www.youtube.com/@lightningautofill) 🎞️ - Go here to watch video tutorials
 - **Community** 🌐
