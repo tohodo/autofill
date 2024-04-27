@@ -14,7 +14,7 @@ Yesterday, I discovered another promising ChatGPT-powered helpdesk bot. I've spe
 
 ## Introducing ⁠#ask-ai channel (Apr 13, 2024)
 
-I've just added an experimental customer support AI chatbot called Wallu to help answer questions related to Lightning Autofill. I'm currently training it on [Online Help](https://www.tohodo.com/autofill/help.html) as well as a few of the channels on the [Discord server](https://discord.gg/NY6xxsQBRD), so hopefully it will get better over time.
+I've just added an experimental customer support AI chatbot called Wallu to help answer questions related to Lightning Autofill. I'm currently training it on [Online Help](https://www.tohodo.com/autofill/help) as well as a few of the channels on the [Discord server](https://discord.gg/NY6xxsQBRD), so hopefully it will get better over time.
 
 To chat with the bot, head over to the `#⁠ask-ai` channel under Support. Try asking it simple questions like "Can I make changes directly in Google Sheets?".
 
