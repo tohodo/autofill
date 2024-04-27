@@ -1,8 +1,48 @@
+## Wrapping things up (Apr 27, 2024)
+
+I'm just about ready to publish the new version (v12). As the icing on the cake, I've decided to integrate one big feature for subscribers: the ability to manage their rules from Google Sheets! Since Sheets cannot communicate with browser extensions, you will still have to manually click the **Restore** button to retrieve the latest data from Sheets, but that's still night & day better than the current experience (export CSV, manipulate data in Excel/Sheets, import back into Lightning Autofill).
+
+This is a pretty big feature to add at the last minute, so I may not be able to release by the end of the month, but we'll see. 🤞
+
+---
+
+## Wallu vs. CommunityOne (Apr 15, 2024)
+
+Yesterday, I discovered another promising ChatGPT-powered helpdesk bot. I've spent most of today comparing `@Wallu - AI` and `@CommunityOne` after training them on the exact same Lightning Autofill documentation. Often I found Wallu's responses more technical and detailed (for example, it sometimes provided code samples), but I felt CommunityOne's responses had more personality. CommunityOne can also reply to more general questions, which makes it more engaging. You can judge for yourself by going to `#⁠ask-ai` and ask way -- both bots will respond. Eventually you guys can help me choose between the two of them. 😁
+
+---
+
+## Introducing ⁠#ask-ai channel (Apr 13, 2024)
+
+I've just added an experimental customer support AI chatbot called Wallu to help answer questions related to Lightning Autofill. I'm currently training it on [Online Help](https://www.tohodo.com/autofill/help.html) as well as a few of the channels on the [Discord server](https://discord.gg/NY6xxsQBRD), so hopefully it will get better over time.
+
+To chat with the bot, head over to the `#⁠ask-ai` channel under Support. Try asking it simple questions like "Can I make changes directly in Google Sheets?".
+
+---
+
+## Firefox blues (Apr 12, 2024)
+
+The most challenging part of the v12 update so far has been trying to get Firefox to NOT break using the same codebase (I do not have the resources to manage two codebases). Starting with MV3 Firefox and Chrome/Edge have diverged in terms of what extension APIs they support, and even what features within the same API that they implement. This has made extensions development very difficult, and I do not rule out ending support for Firefox down the road.
+
+---
+
 ## Lightning Autofill v12 update (Apr 11, 2024)
 
 Hi guys, I'm putting the finishing touches on the major version 12 release. The OAuth app (for the cloud sync feature) is currently going through Google's verification process, which can take over a week. After that, Lightning Autofill will have to go through the extensions review process for Chrome, Edge, and Firefox before the update can get published. If everything goes as planned, expect the big v12 to roll out by the end of this month.
 
 **In the meantime, I recommend you back up all your data to a CSV file using the Import/Export tab.**
+
+---
+
+## Google Groups is retired -- moving to Discord (Apr 8, 2024)
+
+Hi all, I got too tired of not being able to paste screenshots into [Google Groups](https://groups.google.com/g/chrome-autofill) (among many other annoyances over the years), so I will no longer be maintaining this forum. It will remain online as a reference only.
+
+**Please join the new Discord server for support issues moving forward:**
+
+[https://discord.gg/NY6xxsQBRD](https://discord.gg/NY6xxsQBRD)
+
+Note that it will be quiet for the next week or so as I am super busy trying to get Lightning Autofill v12 ready for the big release.
 
 ---
 
