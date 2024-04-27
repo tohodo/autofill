@@ -1,6 +1,5 @@
-# File to purge:
-# https://cdn.jsdelivr.net/gh/tohodo/autofill@main/news-update.md
-# https://cdn.jsdelivr.net/gh/tohodo/autofill@main/support-links.md
+# File URL:
+# https://cdn.jsdelivr.net/gh/tohodo/autofill@main/filename.md
 name: Purge CDN cache
 
 on:
@@ -28,6 +27,9 @@ jobs:
             -H 'content-type: application/json' \
             -d '{
                   "path": [
+                    "/gh/tohodo/autofill@main/news-2022.md",
+                    "/gh/tohodo/autofill@main/news-2023.md",
+                    "/gh/tohodo/autofill@main/news-2024.md",
                     "/gh/tohodo/autofill@main/news-update.md",
                     "/gh/tohodo/autofill@main/support-links.md"
                   ]
