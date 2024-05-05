@@ -12,6 +12,8 @@
   - [Practice Form](https://www.tohodo.com/autofill/form.html) - Go here to practice creating various autofill rules
   - [Practice Form rules](https://pastebin.com/raw/k5j87pZB) - Sample rules for the Practice Form above (use the "Append" option if you import these rules)
   - [Sample address form](https://greenido.github.io/Product-Site-101/form-cc-example.html) - Go here to finetune global address rules based on the [`autocomplete`](https://developer.mozilla.org/docs/Web/HTML/Attributes/autocomplete) attribute
+  - [Regular expressions](https://regex101.com/) - Go here to sharpen your regex skills
+  - [CSS selectors](https://flukeout.github.io/) - Go here to sharpen your CSS skills
 - 📜 **JavaScript snippets**
   - [Rules](https://github.com/thdoan/autofill-snippets/blob/main/rules.txt) - Sample JavaScript rules to get you started
   - [Variables](https://github.com/thdoan/autofill-snippets/blob/main/variables.txt) - Sample JavaScript variables to get you started
