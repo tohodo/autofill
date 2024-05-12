@@ -1,6 +1,7 @@
 - ✨ [Quick Start Guide](https://www.tohodo.com/autofill/quickstart.html) - Go here to learn the basics first
 - 📢 [Freemium Notice](https://www.tohodo.com/autofill/freemium.html) - Go here to read about our freemium model
 - 📕 [Online Help](https://www.tohodo.com/autofill/help.html) - Go here to read the complete documentation
+- 🤖 [Helpdesk AI Chatbot](https://poe.com/LightningAutofillPro) - Ask @LightningAutofillPro anything about Lightning Autofill
 - 🌐 **Community**
   - [Discord Server](https://discord.gg/NY6xxsQBRD) - Join the official support community to get & give help
   - [Google Groups (retired)](https://groups.google.com/g/chrome-autofill) - The original forum is preserved here for reference only
