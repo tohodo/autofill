@@ -3,7 +3,7 @@
 - 📕 [Online Help](https://www.tohodo.com/autofill/help.html) - Read the complete documentation
 - 🤖 [Helpdesk AI Chatbot](https://poe.com/LightningAutofillPro) - Ask @LightningAutofillPro for assistance
 - 🌐 **Community**
-  - [Discord Server](https://discord.gg/NY6xxsQBRD) - Join the official support community to get & give help
+  - [Discord Server](https://discord.gg/NY6xxsQBRD) - Join the official support community
   - [Google Groups (retired)](https://groups.google.com/g/chrome-autofill) - The original forum is preserved here for reference only
 - 💪 **Training**
   - [Practice Form](https://www.tohodo.com/autofill/form.html) - Practice creating various autofill rules
