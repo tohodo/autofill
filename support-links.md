@@ -1,20 +1,20 @@
 - ✨ [Quick Start Guide](https://www.tohodo.com/autofill/quickstart.html) - Go here to learn the basics first
 - 📢 [Freemium Notice](https://www.tohodo.com/autofill/freemium.html) - Go here to read about our freemium model
 - 📕 [Online Help](https://www.tohodo.com/autofill/help.html) - Go here to read the complete documentation
-- 🤖 [Helpdesk AI Chatbot](https://poe.com/LightningAutofillPro) - Ask @LightningAutofillPro anything about Lightning Autofill
+- 🤖 [Helpdesk AI Chatbot](https://poe.com/LightningAutofillPro) - Ask @LightningAutofillPro for assistance
 - 🌐 **Community**
   - [Discord Server](https://discord.gg/NY6xxsQBRD) - Join the official support community to get & give help
   - [Google Groups (retired)](https://groups.google.com/g/chrome-autofill) - The original forum is preserved here for reference only
-- 🎞️ **Video tutorials**
-  - [Official YouTube channel](https://www.youtube.com/@lightningautofill) - Go here to watch the latest video tutorials
-  - [Autofill around the world](https://www.youtube.com/playlist?list=PLwaOpg9d0KdXgwu7WlVILZCNGrKctUCoC) - Go here to watch how-to videos made by others
-  - [Old Autofill tutorials](https://www.youtube.com/playlist?list=PLwaOpg9d0KdWp9kjGg4UyqJ6fGGzbtklK) - Go here to watch older tutorials
 - 💪 **Training**
   - [Practice Form](https://www.tohodo.com/autofill/form.html) - Go here to practice creating various autofill rules
   - [Practice Form rules](https://pastebin.com/raw/k5j87pZB) - Sample rules for the Practice Form above (use the "Append" option if you import these rules)
   - [Sample address form](https://greenido.github.io/Product-Site-101/form-cc-example.html) - Go here to finetune global address rules based on the [`autocomplete`](https://developer.mozilla.org/docs/Web/HTML/Attributes/autocomplete) attribute
-  - [Regular expressions](https://regex101.com/) - Go here to sharpen your regex skills
-  - [CSS selectors](https://flukeout.github.io/) - Go here to sharpen your CSS skills
+  - [Regular expressions](https://regex101.com/) - Go here to sharpen your regex skills for field targeting
+  - [CSS selectors](https://flukeout.github.io/) - Go here to sharpen your CSS skills for field targeting
+- 🎞️ **Video tutorials**
+  - [Official YouTube channel](https://www.youtube.com/@lightningautofill) - Go here to watch the latest video tutorials
+  - [Autofill around the world](https://www.youtube.com/playlist?list=PLwaOpg9d0KdXgwu7WlVILZCNGrKctUCoC) - Go here to watch how-to videos made by others
+  - [Old Autofill tutorials](https://www.youtube.com/playlist?list=PLwaOpg9d0KdWp9kjGg4UyqJ6fGGzbtklK) - Go here to watch older tutorials
 - 📜 **JavaScript snippets**
   - [Rules](https://github.com/thdoan/autofill-snippets/blob/main/rules.txt) - Sample JavaScript rules to get you started
   - [Variables](https://github.com/thdoan/autofill-snippets/blob/main/variables.txt) - Sample JavaScript variables to get you started
