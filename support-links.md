@@ -7,14 +7,16 @@
   - [Google Groups (retired)](https://groups.google.com/g/chrome-autofill) - The original forum is preserved here for reference only
 - 💪 **Training**
   - [Practice Form](https://www.tohodo.com/autofill/form.html) - Practice creating various autofill rules
-  - [Practice Form rules](https://pastebin.com/raw/k5j87pZB) - Sample rules for the Practice Form above (use the "Append" option if you import these rules)
-  - [Sample address form](https://greenido.github.io/Product-Site-101/form-cc-example.html) - Test your global address rules based on the [`autocomplete`](https://developer.mozilla.org/docs/Web/HTML/Attributes/autocomplete) attribute
+  - [Demo address form](https://greenido.github.io/Product-Site-101/form-cc-example.html) - Test your global address rules here
   - [Regular expressions](https://regex101.com/) - Sharpen your regex skills for field targeting
   - [CSS selectors](https://flukeout.github.io/) - Sharpen your CSS skills for field targeting
 - 🎞️ **Video tutorials**
   - [Official YouTube channel](https://www.youtube.com/@lightningautofill) - Watch the latest video tutorials
   - [Autofill around the world](https://www.youtube.com/playlist?list=PLwaOpg9d0KdXgwu7WlVILZCNGrKctUCoC) - Watch how-to videos made by others
   - [Old Autofill tutorials](https://www.youtube.com/playlist?list=PLwaOpg9d0KdWp9kjGg4UyqJ6fGGzbtklK) - Watch older tutorials
+- 📃 **Sample autofill rules** (use the "Append" option if you import these rules)
+  - [Practice Form rules](https://pastebin.com/raw/k5j87pZB) - Sample rules for the Practice Form
+  - [Sample address rules](https://pastebin.com/raw/Rk42q0cv) - These are the preinstalled rules
 - 📜 **JavaScript snippets**
   - [Rules](https://github.com/thdoan/autofill-snippets/blob/main/rules.txt) - Sample JavaScript rules to get you started
   - [Variables](https://github.com/thdoan/autofill-snippets/blob/main/variables.txt) - Sample JavaScript variables to get you started
