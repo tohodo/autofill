@@ -9,7 +9,7 @@
   - [Practice Form](https://www.tohodo.com/autofill/form.html) - Practice creating various autofill rules
   - [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfBeozaGcMlNlh2Zx0_We6weVrp9ivui_enI1vUOo4aOUq5lQ/viewform) - Practice creating more autofill rules
   - [Microsoft Office Forms](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAAJPcBV1UMkFGMTlLQzQ5VzA1UDVROE1ZWU5FQVZHTi4u) - Practice creating more autofill rules
-  - [Demo address form](https://greenido.github.io/Product-Site-101/form-cc-example.html) - Test your global address rules here
+  - [Checkout example](https://greenido.github.io/Product-Site-101/form-cc-example.html) - Test your global address rules here
   - [Regular expressions](https://regex101.com/) - Sharpen your regex skills for field targeting
   - [CSS selectors](https://flukeout.github.io/) - Sharpen your CSS skills for field targeting
 - 🎞️ **Video tutorials**
