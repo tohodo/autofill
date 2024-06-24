@@ -4,7 +4,7 @@
 - 🤖 [AI Helpdesk Chatbot](https://poe.com/LightningAutofillPro) - Ask @LightningAutofillPro for assistance
 - 🌐 **Community**
   - [Discord Server](https://discord.gg/NY6xxsQBRD) - Join the official support community
-  - [Google Groups (retired)](https://groups.google.com/g/chrome-autofill) - The original forum is preserved here for reference only
+  - [Google Groups (retired)](https://groups.google.com/g/chrome-autofill) - Original forum is for reference only
 - 💪 **Training**
   - [Practice Form](https://www.tohodo.com/autofill/form.html) - Practice creating various autofill rules
   - [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfBeozaGcMlNlh2Zx0_We6weVrp9ivui_enI1vUOo4aOUq5lQ/viewform) - Practice creating more autofill rules
