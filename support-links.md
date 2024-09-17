@@ -1,4 +1,4 @@
-- ✨ [Quick Start Guide](https://www.tohodo.com/autofill/quickstart.html) - Learn the basics first
+- 🚀 [Quick Start Guide](https://www.tohodo.com/autofill/quickstart.html) - Learn the basics first
 - 📢 [Freemium Notice](https://www.tohodo.com/autofill/freemium.html) - Read about our freemium model
 - 📕 [Online Help](https://www.tohodo.com/autofill/help.html) - Read the complete documentation
 - 🤖 [AI Helpdesk Chatbot](https://poe.com/LightningAutofillPro) - Ask @LightningAutofillPro for assistance
@@ -10,6 +10,7 @@
   - [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfBeozaGcMlNlh2Zx0_We6weVrp9ivui_enI1vUOo4aOUq5lQ/viewform) - Practice creating more autofill rules
   - [Microsoft Forms](https://forms.microsoft.com/r/4jZjtKhqDi) - Practice creating more autofill rules
   - [Checkout example](https://greenido.github.io/Product-Site-101/form-cc-example.html) - Test your global address rules here
+  - [reCAPTCHA demo](https://www.google.com/recaptcha/api2/demo) - Test autofilling a sample form with reCAPTCHA
   - [Regular expressions](https://regex101.com/) - Sharpen your regex skills for field targeting
   - [CSS selectors](https://flukeout.github.io/) - Sharpen your CSS skills for field targeting
 - 🎞️ **Video tutorials**
