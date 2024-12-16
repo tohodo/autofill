@@ -15,7 +15,7 @@
   - [CSS selectors](https://flukeout.github.io/) - Sharpen your CSS skills for element targeting
   - [XPath playground](https://scrapinghub.github.io/xpath-playground/) - Sharpen your XPath skills for element targeting
 - 🎞️ **Video tutorials**
-  - [Official YouTube channel](https://www.youtube.com/@lightningautofill) - Watch the latest video tutorials
+  - [Official YouTube channel](https://www.youtube.com/@LightningAutofill) - Watch the latest video tutorials
   - [Autofill around the world](https://www.youtube.com/playlist?list=PLwaOpg9d0KdXgwu7WlVILZCNGrKctUCoC) - Watch how-to videos made by others
   - [Old Autofill tutorials](https://www.youtube.com/playlist?list=PLwaOpg9d0KdWp9kjGg4UyqJ6fGGzbtklK) - Watch legacy video tutorials
 - 📃 **Sample autofill rules** (use the "Append" option if you import these rules)
