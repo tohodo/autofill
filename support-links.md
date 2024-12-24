@@ -1,9 +1,10 @@
-- 📢 [Freemium Notice](https://www.tohodo.com/autofill/freemium.html) - Read about our freemium model
-- 🚀 [Quick Start Guide](https://www.tohodo.com/autofill/quickstart.html) - Learn the basics first
-- 📕 [Online Help](https://www.tohodo.com/autofill/help.html) - The complete documentation
+- 📢 [Freemium Notice](https://docs.lightningautofill.com/freemium) - Read about our freemium model
+- 🚀 [Quick Start Guide](https://docs.lightningautofill.com/quickstart) - Learn the basics first
+- 📕 [Online Help](https://docs.lightningautofill.com/help/intro) - The complete documentation
 - 🤖 [AI Helpdesk](https://poe.com/LightningAutofillPro) - Ask @LightningAutofillPro for assistance
 - 🌐 **Community**
   - [Discord](https://discord.gg/NY6xxsQBRD) - Join the official support community
+  - [Reddit](https://www.reddit.com/r/LightningAutofill/new/) - Join our subreddit news hub
   - [Twitter/X](https://x.com/Lightning_AF) - Follow us to stay on top of the news
 - 💪 **Training**
   - [Practice Form](https://www.tohodo.com/autofill/form.html) - Practice creating various autofill rules
