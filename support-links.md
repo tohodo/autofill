@@ -4,7 +4,7 @@
 - 🤖 [AI Helpdesk](https://poe.com/LightningAutofillPro) - Ask @LightningAutofillPro for assistance
 - 🌐 **Community**
   - [Discord](https://discord.gg/NY6xxsQBRD) - Join the official support community
-  - [Reddit](https://www.reddit.com/r/LightningAutofill/new/) - Join our subreddit news hub
+  - [Reddit](https://www.reddit.com/r/LightningAutofill/) - Join our subreddit news hub
   - [Twitter/X](https://x.com/Lightning_AF) - Follow us to stay on top of the news
 - 💪 **Training**
   - [Practice Form](https://www.tohodo.com/autofill/form.html) - Practice creating various autofill rules
