@@ -26,7 +26,7 @@ jobs:
             -d '{
                   "path": [
                     "/gh/tohodo/autofill@main/news-2025.md",
-                    "/gh/tohodo/autofill@main/sponsor.json",
+                    "/gh/tohodo/autofill@main/sponsors.json",
                     "/gh/tohodo/autofill@main/support-links.md"
                   ]
                 }'
