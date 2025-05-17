@@ -27,10 +27,8 @@ jobs:
             -H 'content-type: application/json' \
             -d '{
                   "path": [
-                    "/gh/tohodo/autofill@main/news-2022.md",
-                    "/gh/tohodo/autofill@main/news-2023.md",
-                    "/gh/tohodo/autofill@main/news-2024.md",
-                    "/gh/tohodo/autofill@main/news-update.md",
+                    "/gh/tohodo/autofill@main/news-2025.md",
+                    "/gh/tohodo/autofill@main/sponsor.json",
                     "/gh/tohodo/autofill@main/support-links.md"
                   ]
                 }'
