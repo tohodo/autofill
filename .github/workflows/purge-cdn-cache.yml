@@ -1,5 +1,4 @@
 # File URL:
-# https://cdn.jsdelivr.net/gh/tohodo/autofill@main/filename.md
 name: Purge CDN cache
 
 on:
