@@ -1,7 +1,7 @@
-- 📢 [Freemium Notice](https://docs.lightningautofill.com/freemium) - Read about our freemium model
 - 🚀 [Quick Start Guide](https://docs.lightningautofill.com/quickstart) - Learn the basics first
 - 📕 [Online Help](https://docs.lightningautofill.com/help/intro) - The complete documentation
 - 🤖 [AI Helpdesk](https://poe.com/LightningAutofillPro) - Ask @LightningAutofillPro for assistance
+- ❓ [FAQ](https://docs.lightningautofill.com/faq) - Find answers to frequently asked questions
 - 🤝 [Sponsorship](https://www.tohodo.com/autofill/sponsorship) - Partner with us to grow your brand
 - 🌐 **Community**
   - [Discord](https://discord.gg/NY6xxsQBRD) - Join the official support community
