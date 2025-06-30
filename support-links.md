@@ -25,5 +25,3 @@
 - 📜 **JavaScript snippets**
   - [Rules](https://github.com/thdoan/autofill-snippets/blob/main/rules.txt) - Sample JavaScript rules to get you started
   - [Variables](https://github.com/thdoan/autofill-snippets/blob/main/variables.txt) - Sample JavaScript variables to get you started
-- 🗄️ **Archived**
-  - [Google Groups (retired)](https://groups.google.com/g/chrome-autofill) - Original forum is for reference only
