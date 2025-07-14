@@ -20,17 +20,27 @@ jobs:
         with:
           fetch-depth: 2
 
-      - name: Extract changed years from news files
-        id: news
+      - name: Extract changed files
+        id: changes
         run: |
-          # Get all changed news-YYYY.md files across the entire push
-          changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E "^news-[0-9]{4}\.md$" | sed 's/news-//; s/\.md//' | sort -u | tr '\n' ' ' | sed 's/ $//')
+          # Get all changed files across the entire push
+          all_changed=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }})
+
+          # Extract news years
+          news_files=$(echo "$all_changed" | grep -E "^news-[0-9]{4}\.md$" | sed 's/news-//; s/\.md//' | sort -u | tr '\n' ' ' | sed 's/ $//')
+
+          # Check for other files
+          has_sponsors=$(echo "$all_changed" | grep -q "^sponsors\.json$" && echo "true" || echo "false")
+          has_support=$(echo "$all_changed" | grep -q "^support-links\.md$" && echo "true" || echo "false")
+          
           current_year=$(date +%Y)
-          echo "years=${changed_files:-$current_year}" >> $GITHUB_OUTPUT
-          echo "has_updates=${changed_files:+true}" >> $GITHUB_OUTPUT
+          echo "years=${news_files:-$current_year}" >> $GITHUB_OUTPUT
+          echo "has_news=${news_files:+true}" >> $GITHUB_OUTPUT
+          echo "has_sponsors=$has_sponsors" >> $GITHUB_OUTPUT
+          echo "has_support=$has_support" >> $GITHUB_OUTPUT
 
       - name: Trigger autofill-site update
-        if: steps.news.outputs.has_updates == 'true'
+        if: steps.changes.outputs.has_news == 'true'
         run: |
           curl -X POST \
             -H "Accept: application/vnd.github.v3+json" \
@@ -39,22 +49,40 @@ jobs:
             -d '{
               "event_type": "news-updated",
               "client_payload": {
-                "changed_files": "${{ steps.news.outputs.years }}",
+                "changed_files": "${{ steps.changes.outputs.years }}",
                 "delay_minutes": "1"
               }
             }'
 
       - name: Purge CDN cache
         # Run a set of commands using the runners shell
+        if: steps.changes.outputs.has_news == 'true' || steps.changes.outputs.has_sponsors == 'true' || steps.changes.outputs.has_support == 'true'
         run: |
           # Build dynamic paths array
-          paths='["/gh/tohodo/autofill@main/sponsors.json","/gh/tohodo/autofill@main/support-links.md"'
-          for year in ${{ steps.news.outputs.years }}; do
-            paths="${paths},\"/gh/tohodo/autofill@main/news-${year}.md\""
+          paths=""
+          
+          # Add news files
+          for year in ${{ steps.changes.outputs.years }}; do
+            if [ -n "$paths" ]; then paths="$paths,"; fi
+            paths="$paths\"/gh/tohodo/autofill@main/news-${year}.md\""
           done
-          paths="${paths}]"
-    
-          curl -X POST \
-            https://purge.jsdelivr.net/ \
-            -H 'content-type: application/json' \
-            -d "{\"path\": ${paths}}"
+          
+          # Add sponsors.json if changed
+          if [ "${{ steps.changes.outputs.has_sponsors }}" = "true" ]; then
+            if [ -n "$paths" ]; then paths="$paths,"; fi
+            paths="$paths\"/gh/tohodo/autofill@main/sponsors.json\""
+          fi
+          
+          # Add support-links.md if changed
+          if [ "${{ steps.changes.outputs.has_support }}" = "true" ]; then
+            if [ -n "$paths" ]; then paths="$paths,"; fi
+            paths="$paths\"/gh/tohodo/autofill@main/support-links.md\""
+          fi
+          
+          # Only purge if we have paths to purge
+          if [ -n "$paths" ]; then
+            curl -X POST \
+              https://purge.jsdelivr.net/ \
+              -H 'content-type: application/json' \
+              -d "{\"path\": [$paths]}"
+          fi
