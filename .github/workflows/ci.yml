@@ -9,24 +9,52 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "purge"
-  purge:
+  update-and-purge:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Check out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
-      # Run a set of commands using the runners shell
-      - name: Purge CDN cache
+        # Required for github.event.before
+        with:
+          fetch-depth: 2
+
+      - name: Extract changed years from news files
+        id: news
         run: |
+          # Get all changed news-YYYY.md files across the entire push
+          changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E "^news-[0-9]{4}\.md$" | sed 's/news-//; s/\.md//' | sort -u | tr '\n' ' ' | sed 's/ $//')
+          current_year=$(date +%Y)
+          echo "years=${changed_files:-$current_year}" >> $GITHUB_OUTPUT
+          echo "has_updates=${changed_files:+true}" >> $GITHUB_OUTPUT
+
+      - name: Trigger autofill-site update
+        if: steps.news.outputs.has_updates == 'true'
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token ${{ secrets.WEBSITE_DISPATCH_TOKEN }}" \
+            https://api.github.com/repos/tohodo/autofill-site/dispatches \
+            -d '{
+              "event_type": "news-updated",
+              "client_payload": {
+                "changed_files": "${{ steps.news.outputs.years }}",
+                "delay_minutes": "1"
+              }
+            }'
+
+      - name: Purge CDN cache
+        # Run a set of commands using the runners shell
+        run: |
+          # Build dynamic paths array
+          paths='["/gh/tohodo/autofill@main/sponsors.json","/gh/tohodo/autofill@main/support-links.md"'
+          for year in ${{ steps.news.outputs.years }}; do
+            paths="${paths},\"/gh/tohodo/autofill@main/news-${year}.md\""
+          done
+          paths="${paths}]"
+    
           curl -X POST \
             https://purge.jsdelivr.net/ \
             -H 'content-type: application/json' \
-            -d '{
-                  "path": [
-                    "/gh/tohodo/autofill@main/news-2025.md",
-                    "/gh/tohodo/autofill@main/sponsors.json",
-                    "/gh/tohodo/autofill@main/support-links.md"
-                  ]
-                }'
+            -d "{\"path\": ${paths}}"
