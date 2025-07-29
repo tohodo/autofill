@@ -41,6 +41,12 @@ jobs:
 
       - name: Trigger autofill-site update
         if: steps.changes.outputs.has_news == 'true'
+        # NOTE: Classic PAT token is recommended since we can set it to never expire. Fine-grained
+        # tokens have a maximum lifetime of 1 year. If switching to fine-grained tokens in the
+        # future, these Repository permissions are required:
+        #
+        # - Actions: Read and write
+        # - Contents: Read and write
         run: |
           curl -X POST \
             -H "Accept: application/vnd.github.v3+json" \
