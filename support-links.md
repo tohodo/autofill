@@ -2,13 +2,13 @@
 - 📕 [Online Help](https://docs.lightningautofill.com/help/intro) - The complete documentation
 - 🤖 [AI Helpdesk](https://poe.com/LightningAutofillPro) - Ask @LightningAutofillPro for assistance
 - ❓ [FAQ](https://docs.lightningautofill.com/faq) - Find answers to frequently asked questions
-- 🤝 [Sponsorship](https://www.tohodo.com/autofill/sponsorship) - Partner with us to grow your brand
+- 🤝 [Sponsorship](https://lightningautofill.com/sponsorship/) - Partner with us to grow your brand
 - 🌐 **Community**
   - [Discord](https://discord.gg/NY6xxsQBRD) - Join the official support community
   - [Reddit](https://www.reddit.com/r/LightningAutofill/) - Join our subreddit news hub
   - [Twitter/X](https://x.com/Lightning_AF) - Follow us to stay on top of the news
 - 💪 **Training**
-  - [Practice Form](https://www.tohodo.com/autofill/form) - Practice creating various autofill rules
+  - [Practice Form](https://lightningautofill.com/practice/) - Practice creating various autofill rules
   - [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfBeozaGcMlNlh2Zx0_We6weVrp9ivui_enI1vUOo4aOUq5lQ/viewform) - Practice creating more autofill rules
   - [Microsoft Forms](https://forms.microsoft.com/r/4jZjtKhqDi) - Practice creating more autofill rules
   - [Address & payment forms](https://greenido.github.io/Product-Site-101/form-cc-example.html) - Test your global autofill rules here
