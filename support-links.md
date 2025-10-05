@@ -1,6 +1,6 @@
 - 🚀 [Quick Start Guide](https://docs.lightningautofill.com/quickstart) - Learn the basics first
 - 📕 [Online Help](https://docs.lightningautofill.com/help/intro) - The complete documentation
-- 🛟 [Helpdesk](https://poe.com/LightningAutofillPro) - Ask @LightningAutofillPro for assistance
+- 🛟 [Helpdesk](https://poe.com/LightningAutofillPro) - Chat with our AI assistant
 - ❓ [FAQ](https://docs.lightningautofill.com/faq) - Find answers to frequently asked questions
 - 🎁 [Referral Program](https://lightningautofill.com/referrals/) - Refer friends for stacking discounts
 - 🤝 [Sponsorship](https://lightningautofill.com/sponsorship/) - Partner with us to grow your brand
