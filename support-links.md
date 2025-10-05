@@ -2,7 +2,8 @@
 - 📕 [Online Help](https://docs.lightningautofill.com/help/intro) - The complete documentation
 - 🤖 [AI Helpdesk](https://poe.com/LightningAutofillPro) - Ask @LightningAutofillPro for assistance
 - ❓ [FAQ](https://docs.lightningautofill.com/faq) - Find answers to frequently asked questions
-- 🤝 [Sponsorship](https://lightningautofill.com/sponsorship/) - Partner with us to grow your brand
+- 🤝 [Referral Program](https://lightningautofill.com/referrals/) - Refer friends for stacking discounts
+- ⭐ [Sponsorship](https://lightningautofill.com/sponsorship/) - Partner with us to grow your brand
 - 🌐 **Community**
   - [Discord](https://discord.gg/NY6xxsQBRD) - Join the official support community
   - [Reddit](https://www.reddit.com/r/LightningAutofill/) - Join our subreddit news hub
