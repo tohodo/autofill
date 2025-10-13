@@ -4,6 +4,7 @@
 - 📕 [Online Help](https://docs.lightningautofill.com/help/intro) - The complete documentation
 - 🛟 [Helpdesk](https://poe.com/LightningAutofillPro) - Chat with our AI assistant
 - ❓ [FAQ](https://docs.lightningautofill.com/faq) - Find answers to frequently asked questions
+- 📧 [Email Support](mailto:support@tohodo.com) - Contact us directly
 - 🎁 [Referral Program](https://lightningautofill.com/referrals/) - Refer friends for stacking discounts
 - 🤝 [Sponsorship](https://lightningautofill.com/sponsorship/) - Partner with us to grow your brand
 - 🌐 **Community**
