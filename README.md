@@ -9,4 +9,5 @@ News updates for the Lightning Autofill browser extension.
 
 ---
 
+**[Plans](https://tohodo.github.io/autofill/plans)**
 **[Support Links](https://tohodo.github.io/autofill/support-links)**
