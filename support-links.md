@@ -1,5 +1,3 @@
-**NOTE: If you see "v14.5.4.1" in the top right corner, your version of Lightning Autofill is OUTDATED. This version contains known bugs and security vulnerabilities, so we highly recommend updating to the [latest BETA](https://chromewebstore.google.com/detail/lightning-autofill-beta/oinjpibanhdbgelnjjjffimdlpcfpipa) right away.**
-
 - 🚀 [Quick Start Guide](https://docs.lightningautofill.com/quickstart) - Learn the basics first
 - 📕 [Online Help](https://docs.lightningautofill.com/help/intro) - The complete documentation
 - 🛟 [Helpdesk](https://poe.com/LightningAutofillPro) - Chat with our AI assistant
